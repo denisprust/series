@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+O backend deste projeto está em outro repositório (https://github.com/denisprust/series-api)
